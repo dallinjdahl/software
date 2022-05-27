@@ -1,0 +1,54 @@
+Software I choose to use:
+text editor:             vis            github.com/martanne/vis
+scripted text editing:   ed             9fans.github.io/plan9port
+                         sam            9fans.github.io/plan9port
+terminal emulator:       st             st.suckless.org
+                         scrollback     st.suckless.org/patches/scrollback
+                         plumb          st.suckless.org/patches/right_click_to_plumb
+plumber:                 gx             github.com/dallinjdahl/gx
+menus:                   dmenu          tools.suckless.org/dmenu
+window manager:          dwm            dwm.suckless.org
+                         cursorwarp     dwm.suckless.org/patches/cursorwarp
+status bar:              slstatus       tools.suckless.org/slstatus
+init:                    s6             skarnet.org/software/s6
+service manager:         s6-rc          skarnet.org/software/s6-rc
+hotkeys:                 sxhkd          github.com/baskerville/sxhkd
+pdf viewer:              mupdf          mupdf.com
+interactive shell:       rc             github.com/rakitzis/rc
+shell scripting:         execline       skarnet.org/software/execline
+document preparation:    neatroff       litcave.rudi.ir/
+generating impositions:  psutils        knackered.org/angus/psutils/index.html
+calendar:                calendar       aur.archlinux.org/packages/bsdmainutils
+makefiles:               mk             9fans.github.io/plan9port/unix
+calculator:              dc             9fans.github.io/plan9port
+spellchecker:            spell          9fans.github.io/plan9port
+task scheduler:          runwhen        code.dogmap.org/runwhen/
+clock sync:              clockspeed     thedjbway.b0llix.net/clockspeed.html
+package manager:         yay            github.com/jguer/yay
+libc:                    musl           musl.libc.org
+email client:            mblaze         github.com/leahneukirchen/mblaze
+budget:                  ledger         ledger-cli.org
+statistics/spreadsheet:  j              jsoftware.com
+reverse engineering:     radare2        radare.org
+password manager:        pass           passwordstore.org
+auto-reload:             entr           eradman.com/entrproject
+image viewer:            feh            feh.finalrewind.org
+privilege escalation:    doas           github.com/duncaen/opendoas
+network stats:           nc             salsa.debian.org/debian/netcat-openbsd
+network sync:            rsync          rsync.samba.org
+superserver:             s6-networking  skarnet.org/software/s6-networking
+presentation:            sent           tools.suckless.org/sent
+3d modeling:             solvespace     solvespace.com/index.pl
+dotfiles management:     stow           gnu.org/software/stow
+schematic entry:         xcircuit       opencircuitdesign.com/xcircuit
+spice:                   ngspice        ngspice.sourceforge.net
+pointer hiding:          xbanish        github.com/jcs/xbanish
+web server:              quark          tools.suckless.org/quark
+screenshot:              scrot          github.com/resurrecting-open-source-projects/scrot
+compositor:              picom          github.com/yshui/picom
+
+Software I am looking at:
+sound system:        sndio          sndio.org
+DNS server/blocker:  djbdns         http://thedjbway.b0llix.net/djbdns.html
+web browser:         rose           github.com/mini-rose/rose
+clock sync:          s6-networking  skarnet.org/software/s6-networking
