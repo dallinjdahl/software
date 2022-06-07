@@ -49,6 +49,18 @@ compositor:              picom          github.com/yshui/picom
 
 Software I am looking at:
 sound system:        sndio          sndio.org
-DNS server/blocker:  djbdns         http://thedjbway.b0llix.net/djbdns.html
+DNS server/blocker:  djbdns         thedjbway.b0llix.net/djbdns.html
 web browser:         rose           github.com/mini-rose/rose
 clock sync:          s6-networking  skarnet.org/software/s6-networking
+
+Games I enjoy:
+Freeciv       freeciv.org
+Nethack       nethack.org
+Zork          infocom-if.org/downloads/downloads.html
+              davidgriffith.gitlab.io/frotz
+Note you just need the .DAT file from the downloaded zork zip file to
+run it with frotz.
+Curse of War  a-nikolaev.github.io/curseofwar
+hunt          aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=bsd-games2
+Note that hunt requires several patches to work on modern systems,
+hence the aur link.
